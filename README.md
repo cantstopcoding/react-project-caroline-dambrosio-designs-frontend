@@ -6,7 +6,7 @@ $ rails db:migrate
 
 $ rails db:seed
 
-$ You can see the api http://localhost:3001/api/v1/accounts
+$ You can see the api at http://localhost:3000/api/v1/accounts
 
 # Getting Started with Create React App
 
